@@ -1,5 +1,5 @@
 //
-//  ViewController.h
+//  XCRecordingController.h
 //  XCRecordingVideo
 //
 //  Created by xiaocan on 2017/5/25.
@@ -8,8 +8,6 @@
 
 #import <UIKit/UIKit.h>
 
-@interface ViewController : UIViewController
-
+@interface XCRecordingController : UIViewController
 
 @end
-
